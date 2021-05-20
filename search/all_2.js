@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['cell_5fchg_5fvoltage_63',['cell_chg_voltage',['../structBmsConfig.html#a42380d98f850e542ac934b6d91a1f4e7',1,'BmsConfig']]],
+  ['cell_5fdis_5fvoltage_64',['cell_dis_voltage',['../structBmsConfig.html#a4e0cf0a433a174edee00a94a33156887',1,'BmsConfig']]],
+  ['cell_5fov_5fdelay_5fms_65',['cell_ov_delay_ms',['../structBmsConfig.html#a30d0bb5be7e5403f4b4ab31828ad0597',1,'BmsConfig']]],
+  ['cell_5fov_5flimit_66',['cell_ov_limit',['../structBmsConfig.html#a04e007f50890738763a077170a81eca2',1,'BmsConfig']]],
+  ['cell_5fov_5freset_67',['cell_ov_reset',['../structBmsConfig.html#a5cf6c9f6336e4cf7e14c5539b4a00297',1,'BmsConfig']]],
+  ['cell_5ftype_5fcustom_68',['CELL_TYPE_CUSTOM',['../bms_8h.html#a268ae74e98bc01a0e35f5e215580bcb4ab3d50dc105e5075f32dcc61dc3c47c94',1,'bms.h']]],
+  ['cell_5ftype_5flfp_69',['CELL_TYPE_LFP',['../bms_8h.html#a268ae74e98bc01a0e35f5e215580bcb4ae1df026f4da9a469af8238568a63d0ed',1,'bms.h']]],
+  ['cell_5ftype_5flto_70',['CELL_TYPE_LTO',['../bms_8h.html#a268ae74e98bc01a0e35f5e215580bcb4a5623c2c4b0db72eb4ab6762ea952d27e',1,'bms.h']]],
+  ['cell_5ftype_5fnmc_71',['CELL_TYPE_NMC',['../bms_8h.html#a268ae74e98bc01a0e35f5e215580bcb4a586adbefc5a5d170e2980bfe7645cc72',1,'bms.h']]],
+  ['cell_5ftype_5fnmc_5fhv_72',['CELL_TYPE_NMC_HV',['../bms_8h.html#a268ae74e98bc01a0e35f5e215580bcb4ac9cecdeb33174c004a5a4bd753c9be5e',1,'bms.h']]],
+  ['cell_5fuv_5fdelay_5fms_73',['cell_uv_delay_ms',['../structBmsConfig.html#af0eea54d3356077ba1cefc8f27aaa524',1,'BmsConfig']]],
+  ['cell_5fuv_5flimit_74',['cell_uv_limit',['../structBmsConfig.html#a5a1f04ca41ddaf3a06535edf9044385e',1,'BmsConfig']]],
+  ['cell_5fuv_5freset_75',['cell_uv_reset',['../structBmsConfig.html#a2b34214e7b38ff319a3a30daf4cb3674',1,'BmsConfig']]],
+  ['cell_5fvoltage_5favg_76',['cell_voltage_avg',['../structBmsStatus.html#a5d85209e3fc209ed408b6761cb93903b',1,'BmsStatus']]],
+  ['cell_5fvoltage_5fmax_77',['cell_voltage_max',['../structBmsStatus.html#abae5d6460a68dc96f657ff329197acad',1,'BmsStatus']]],
+  ['cell_5fvoltage_5fmin_78',['cell_voltage_min',['../structBmsStatus.html#ae32696d74255fa782e147f48a5a81fe8',1,'BmsStatus']]],
+  ['cell_5fvoltages_79',['cell_voltages',['../structBmsStatus.html#a033bad873393211042e5b61fef3d640c',1,'BmsStatus']]],
+  ['celltype_80',['CellType',['../bms_8h.html#a268ae74e98bc01a0e35f5e215580bcb4',1,'bms.h']]],
+  ['chg_5fenable_81',['chg_enable',['../structBmsStatus.html#a3f001a0d679f93b985297d9948a10939',1,'BmsStatus']]],
+  ['chg_5foc_5fdelay_5fms_82',['chg_oc_delay_ms',['../structBmsConfig.html#a2dc336e551ae74d9d8e719288f1ffce6',1,'BmsConfig']]],
+  ['chg_5foc_5flimit_83',['chg_oc_limit',['../structBmsConfig.html#a1940f1ec63e93e27175a11564042b843',1,'BmsConfig']]],
+  ['chg_5fot_5flimit_84',['chg_ot_limit',['../structBmsConfig.html#a67e045bd30d15b231fbfe0c3b0e2e4f5',1,'BmsConfig']]],
+  ['chg_5fut_5flimit_85',['chg_ut_limit',['../structBmsConfig.html#acc1dcf13703e78c37a1853973f091bbf',1,'BmsConfig']]],
+  ['clamp_86',['CLAMP',['../helper_8h.html#ad6e7d4f6ba5a77f9ee3c04026f1c2b67',1,'helper.h']]],
+  ['connected_5fcells_87',['connected_cells',['../structBmsStatus.html#ada77415d2cccd709266996369df56a05',1,'BmsStatus']]]
+];
